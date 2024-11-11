@@ -8,7 +8,6 @@ def navbar()->rx.Component:
       ),
       rx.hstack(
         rx.link("Inicio",href="/#",size="3",weight="bold"),
-        rx.link("Iniciar sesion",href="/#",size="3",weight="bold"),
         justify="end",
         spacing="5"
       ),

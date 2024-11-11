@@ -22,7 +22,7 @@ Nuestra aplicación de cámara ofrece sugerencias creativas de fotografías basa
 - Trello: https://trello.com/invite/b/66f630a2e44cc25f8a691fb0/ATTI91bc6f8d0c70ed3e75ea5694c24f47ae9DC7C227/technova
 - Discord: https://discord.gg/uS9C5dAg%7D
 - Figma: https://www.figma.com/design/sm9mkMxDHL3XQN6boo32Tu/PIXIE-1.0?node-id=0-1&t=5PVBVD40P6DBB3jk-1
-- Reflex
+- Reflex / dart
 - Flet
 - TikTok: https://www.tiktok.com/@tech.nova01/video/7427016677050649861
 - Python
