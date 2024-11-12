@@ -19,7 +19,7 @@ Nuestra aplicación de cámara ofrece sugerencias creativas de fotografías basa
 
 ## Tecnologías
 - GitHub
-- Trello: https://trello.com/invite/b/66f630a2e44cc25f8a691fb0/ATTI91bc6f8d0c70ed3e75ea5694c24f47ae9DC7C227/technova
+- Trello: https://www.notion.so/PIXIE_APP-134ed3019965804a9d15f8cb27921d35
 - Discord: https://discord.gg/uS9C5dAg%7D
 - Figma: https://www.figma.com/design/sm9mkMxDHL3XQN6boo32Tu/PIXIE-1.0?node-id=0-1&t=5PVBVD40P6DBB3jk-1
 - Reflex / dart
