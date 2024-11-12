@@ -1,7 +1,7 @@
 *.db
 *.py[cod]
 .PIXIE
+.venv
 .web
 __pycache__/
 assets/external/
-.venv
